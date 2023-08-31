@@ -13,7 +13,7 @@ The problem is binary classification (a sample can only be one of two things).
 
 The original data came from the cleavland data from the UCI ML Repository.http://archive.ics.uci.edu/ml/datasets/heart+Disease
 
-Here only 14 features will be used. Features are the variables that will be used to predict the target variable.
+Here only 13 features will be used. Features are the variables that will be used to predict the target variable.
 
 
 
